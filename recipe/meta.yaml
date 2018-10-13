@@ -1,5 +1,5 @@
 {% set name = "aioslacker" %}
-{% set version = "0.0.10" %}
+{% set version = "0.0.11" %}
 
 package:
   name: {{ name|lower }}
@@ -7,7 +7,7 @@ package:
 
 source:
   url: https://pypi.io/packages/source/{{ name[0] }}/{{ name }}/{{ name }}-{{ version }}.tar.gz
-  sha256: 663b2ea7b78d0c86ee6150f7d3320e00be0ae462cbe726f4dd72d1b20b30d998
+  sha256: 254b727e2d3897e63576f3b7e58b19750c40420124451e1067e33237357e006a
 
 build:
   noarch: python
