@@ -33,7 +33,7 @@ about:
   license: MIT
   license_family: MIT
   license_file: LICENSE
-  summary: 'slacker wrapper for asyncio'
+  summary: 'slacker wrapper for asyncio' 
   dev_url: https://github.com/aio-libs/aioslacker
 
 extra:
